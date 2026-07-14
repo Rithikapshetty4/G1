@@ -1,3 +1,7 @@
 this is a4 file
 
+<<<<<<< HEAD
 first update
+=======
+new content in a4
+>>>>>>> second
